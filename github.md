@@ -709,6 +709,7 @@ Hackathon Hackers' GitHub profiles
 - Sam Redmond https://github.com/sredmond
 - Samarth Sandeep https://github.com/gravityshouldbenaut
 - Sameer Khoja https://github.com/samkho10/
+- Samkit Jain https://github.com/samkit5495
 - Sang Han https://github.com/jjangsangy
 - Sankarshan Vidyadhar Mudkavi https://github.com/Sankarshan-Mudkavi
 - Sarthak Munshi http://sarthakm.com/
